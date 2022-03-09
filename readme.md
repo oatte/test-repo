@@ -1,3 +1,3 @@
 # readme #
 
-AND NOW FROM THE CLI
+i wish to do a git diff test ok thx
