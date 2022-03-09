@@ -1,5 +1,3 @@
 # readme #
 
-LOOK MA I'M UPDATING FROM GITHUB!
-
-yeehaw
+AND NOW FROM THE CLI
