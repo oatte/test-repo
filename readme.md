@@ -1,3 +1,3 @@
 # readme #
 
-ssh test
+sublime text test
