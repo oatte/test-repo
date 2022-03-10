@@ -1,3 +1,3 @@
 # readme #
 
-am i still logged in?
+ssh test
