@@ -1,3 +1,3 @@
 # readme #
 
-i wish to do a git diff test ok thx
+do i still know how to do this?
