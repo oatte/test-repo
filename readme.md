@@ -1,3 +1,3 @@
 # readme #
 
-do i still know how to do this?
+am i still logged in?
