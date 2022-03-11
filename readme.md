@@ -1,3 +1,3 @@
 # readme #
 
-sublime text test
+atom text test
